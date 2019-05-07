@@ -1,0 +1,26 @@
+<resources>
+    <!-- Sign in -->
+    <string name="app_name">Helper</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="forgot_password">Forgot your password?</string>
+
+    <!-- Sign up -->
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="create_account">Create account</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="header_login">Login</string>
+
+    <!-- Bottom bar -->
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_my_posts">My posts</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
